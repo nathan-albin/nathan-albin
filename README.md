@@ -22,18 +22,6 @@ the right answer.
 - **Formal methods:** actively learning Lean 4, and leading a seminar series
   introducing it to my research group.
 
-#### Selected projects
-
-- **[discrete-modulus](https://github.com/nathan-albin/discrete-modulus):**
-  An introduction to network modulus with Python/CVXPY notebooks that implement
-  the convex-optimization algorithms on graphs.
-- **[lean-modulus](https://github.com/nathan-albin/lean-modulus):** Lean 4
-  formalizations of results from my research on graphs, networks, and the
-  modulus of families of objects (just getting started).
-- **[mass-spring-neural-ode](https://github.com/nathan-albin/mass-spring-neural-ode):**
-  PyTorch code that trains a neural ODE to learn a nonlinear damping law from
-  real experimental data. Companion to a peer-reviewed paper in *CODEE Journal*.
-
 #### Toolkit
 
 Python (NumPy, SciPy, PyTorch, TensorFlow) · Julia · Lean 4 · C/C++ · Fortran ·
