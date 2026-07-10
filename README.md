@@ -29,7 +29,7 @@ SQL · Git · Linux · high-performance computing (MPI, SLURM, GPU)
 
 #### Elsewhere
 
-- **Book:** *Mathematics of Networks: Modulus Theory and Convex Optimization*
+- **[Book](https://doi.org/10.1201/9781003024866):** *Mathematics of Networks: Modulus Theory and Convex Optimization*
   (Chapman & Hall/CRC, 2025)
 - **[Google Scholar](https://scholar.google.com/citations?user=LkkDvysAAAAJ):**
   full publication list, roughly 48 peer-reviewed papers
